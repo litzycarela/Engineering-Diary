@@ -1,4 +1,4 @@
-# 📅 Daily Dev Log - xxxx-xx-xxx
+# 📅 Daily Dev Log ~ xx-xx-xxxx
 
 ## 🧠 Plan for Today
 
@@ -21,6 +21,11 @@
 -
 
 ## 🧩 Bugs or Blockers
+
+-
+-
+
+## 📚 Game-Changing Resources
 
 -
 -

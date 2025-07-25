@@ -1,4 +1,4 @@
-# Daily Dev Log - xxxx-xx-xxx
+# Daily Dev Log ~ xx-xx-xxxx
 
 ![Productive Study](https://thumbs.dreamstime.com/b/generated-image-391636691.jpg)
 
@@ -120,7 +120,7 @@ code or whateva
 
 ### ⏰ Time Allocation
 
-```
+```text
 🔥 Deep Work: x.x hours
 📖 Learning: x hours
 💬 Communication: x hour

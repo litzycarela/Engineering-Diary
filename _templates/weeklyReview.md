@@ -1,6 +1,6 @@
 # Weekly Review - Week 1
 
-## 🏆 Wins
+## ✅ Wins
 
 -
 -
